@@ -44,6 +44,10 @@
 |----------------|-------------|--------------|
 | ![Services](docs/screenshots/Screenshot_2.png) | ![Time](docs/screenshots/Screenshot_3.png) | ![Details](docs/screenshots/Screenshot_4.png) |
 
+| Form Completed | Booking Confirmed |
+|----------------|-------------------|
+| ![Form](docs/screenshots/Screenshot_5.png) | ![Confirmed](docs/screenshots/Screenshot_6.png) |
+
 ### Database (Neon PostgreSQL)
 ![Database](docs/screenshots/Screenshot_7.png)
 
