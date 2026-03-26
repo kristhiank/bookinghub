@@ -36,8 +36,13 @@
 
 ## 🎬 Demo
 
-<!-- Add your demo link and screenshots here -->
-![BookingHub Screenshot](https://via.placeholder.com/800x400?text=BookingHub+Screenshot)
+### Landing Page
+![Landing Page](docs/screenshots/home.png)
+
+### Booking Flow
+| Select Service | Select Time | Your Details |
+|----------------|-------------|--------------|
+| ![Services](docs/screenshots/booking-services.png) | ![Time](docs/screenshots/booking-time.png) | ![Details](docs/screenshots/booking-details.png) |
 
 **Live Demo:** [Coming Soon](#)
 
