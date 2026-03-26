@@ -37,12 +37,12 @@
 ## 🎬 Demo
 
 ### Landing Page
-![Landing Page](docs/screenshots/home.png)
+![Landing Page](docs/screenshots/Screenshot_1.png)
 
 ### Booking Flow
 | Select Service | Select Time | Your Details |
 |----------------|-------------|--------------|
-| ![Services](docs/screenshots/booking-services.png) | ![Time](docs/screenshots/booking-time.png) | ![Details](docs/screenshots/booking-details.png) |
+| ![Services](docs/screenshots/Screenshot_2.png) | ![Time](docs/screenshots/Screenshot_3.png) | ![Details](docs/screenshots/Screenshot_4.png) |
 
 **Live Demo:** [Coming Soon](#)
 
