@@ -44,6 +44,9 @@
 |----------------|-------------|--------------|
 | ![Services](docs/screenshots/Screenshot_2.png) | ![Time](docs/screenshots/Screenshot_3.png) | ![Details](docs/screenshots/Screenshot_4.png) |
 
+### Database (Neon PostgreSQL)
+![Database](docs/screenshots/Screenshot_7.png)
+
 **Live Demo:** [Coming Soon](#)
 
 ## 🛠️ Tech Stack
